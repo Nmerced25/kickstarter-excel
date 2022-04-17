@@ -1,5 +1,3 @@
-# kickstarter-excel
-Excel project for analyzing kickstart data
 # Kickstarting with Excel
 ​
 ## Overview of Project
